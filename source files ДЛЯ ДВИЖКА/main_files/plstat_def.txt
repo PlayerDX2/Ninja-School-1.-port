@@ -1,0 +1,7 @@
+plhp = 100
+plmp = 100
+plexp = 0
+plmn = 0
+pllv = 1
+schp = 8
+scmp = 6
